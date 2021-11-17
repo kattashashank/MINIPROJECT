@@ -1,0 +1,57 @@
+List wolfgang = [
+  {
+    "serves": "4",
+    "prepTime": "5 minutes",
+    "cookTime": "40 minutes",
+    "asset": "assets/chefs/wolfgang/classic.jpeg",
+    "name": "Wolfgang's Classic Wiener Schnitzel",
+    "items":
+        "3 cups plain breadcrumbs, for homemade, pulse stale bread in a food processor until fine\n3 large eggs\n1 cup all-purpose flour\n1 quart vegetable oil, plus more as needed, total amount may vary depending on size/shape of frying vessel\n4 veal cutlets, about 1 lb (454 g) total\nKosher salt\nFreshly ground black pepper\nGarnish\nLemon wedges\nFlat-leaf parsley",
+    "process":
+        "Sift the breadcrumbs through a fine-mesh strainer into a large mixing bowl, and set aside. \n(Save the coarse crumbs in the strainer for another use.) \nIn another large bowl, add the eggs and whisk to combine. \nIn the third bowl, add the flour. In a large, heavy-bottomed pot set over high heat, add enough vegetable oil to reach a depth of 1 to 1½ inches. \nClip a thermometer onto the pot and bring oil to 380 degrees F. \nMeanwhile, prepare the cutlets.\nLightly oil one side of two freezer bags. \nOptional: Trim the veal cutlets to your desired size (Chef Ban uses pieces about 4 inches long). \nPlace a cutlet between the oiled sides of the bags, then use the bottom of a heavy skillet (or a meat tenderizer) to pound the cutlets until they are of a uniform thickness, about ⅛ inch. \nSet flattened cutlet aside and repeat with remaining cutlets.\nPlace the cutlets, evenly spaced, on a wire rack fitted into a rimmed baking sheet.\nSeason with salt and pepper on both sides. Coat first cutlet completely with flour; \ntap off excess flour. Next, dip the cutlet in the egg; gently wipe off excess egg. Finally, cover the cutlet with breadcrumbs until evenly and completely coated; gently shake off the excess breadcrumbs. \nReturn cutlet to the wire rack, then repeat with remaining cutlets.\nPrepare another wire rack fitted into a rimmed baking sheet for the finished schnitzels. \nWhen the oil is at 380 degrees F, gently submerge the first cutlet in the oil. \nAbout 30 seconds later, when it floats to the surface, use a ladle to carefully and continually baste the top of the schnitzel with hot oil until the crust is golden and puffs up, about 3 minutes. \n(This basting action helps create a pocket of air between the meat and the crust—the hallmark of a good schnitzel.) After 3 minutes, flip and baste again, 2–3 more minutes. \n(Adjust heat as needed to keep temperature at 380 degrees F.) \nAfter a total of 5–6 minutes of cooking, schnitzel should be puffed and golden brown on both sides. \nUse a strainer to remove schnitzel and transfer to clean wire rack or a baking sheet lined with paper towels. \nMake sure the oil is at 380 degrees F before cooking the next cutlet. Repeat with remaining cutlets.\nPlate the Wiener schnitzel gently to avoid breaking the crust. \nGarnish with lemon wedges and a few leaves of parsley. Serve immediately."
+  },
+  {
+    "serves": "4",
+    "prepTime": "30 minutes",
+    "cookTime": "2 hours",
+    "asset": "assets/chefs/wolfgang/beef.jpeg",
+    "name": "Wolfgang's Beef Goulash",
+    "items":
+        "2 tablespoons extra virgin olive oil\n4 cups onions, thinly sliced\n1 tablespoon sugar\n3 garlic cloves, minced\n1 tablespoon caraway seeds, toasted and ground\n1 1/2 tablespoons sweet paprika\n1 teaspoon spicy paprika\n2 tablespoons minced fresh marjoram leaves\n1 teaspoon minced fresh thyme leaves\n1 bay leaf\n3 tablespoons tomato paste\n2 tablespoons balsamic vinegar\n4 cups chicken stock\n2 1/2 pounds beef shank, cut into 2-inch cubes\n1 teaspoon kosher salt\n1/4 teaspoon freshly ground black pepper\nSpaetzle, recipe follows\nSpaetzle:\n4 egg yolks\n1 egg\n1 3/4 cups milk\n1 pound (about 3 cups) all purpose flour\n1/4 teaspoon freshly grated nutmeg\n1 teaspoon salt\n1/4 teaspoon freshly ground pepper\n1/2 cup peanut oil\nSalt\nPepper\n2 ounces unsalted butter\n1 tablespoon fresh minced parsley",
+    "process":
+        "In a large saute pan, heat the olive oil and saute the onions and sugar until caramelized. \nAdd the garlic and caraway seed. Cook for 1 minute. \nAdd the sweet and sharp paprika, marjoram, thyme, and bay leaf. Saute another minute, until fragrant. \nAdd the tomato paste. Deglaze with the vinegar and the stock and add the pieces of beef shank, salt, and pepper. \nBring to a boil, then lower to a simmer and cook until very tender, about 1 1/2 hours, stirring occasionally.\nTaste and adjust seasoning with salt and pepper. \nServe with Spaetzle on the side.\nSpaetzle:\nIn a small bowl, beat together the egg yolks, egg and milk. In a medium bowl, combine the flour, nutmeg, salt, and pepper. \nAdd the egg mixture to the flour mixture and mix with hand until well blended. Do not overmix at this stage. \nCover the bowl and refrigerate. Allow the batter to rest for at least 1 hour.\nBring salted water to a boil. Place a perforated hotel pan on top of the pot. \nPlace the batter on the pan and force through the holes to form spaetzle. \nCook for 4 to 5 minutes, or until al dente. Transfer cooked spaetzle to a bowl of ice water to shock. \nWhen cool to the touch, drain well. Stir in half the oil. (At this point you can cover and refrigerate up to 2 days).\nOver high heat, place a large saute pan until it gets very hot. \nAdd the remaining 1/4 cup of oil and the boiled spaetzle. Saute until golden. \nSeason, to taste, with salt and pepper. Finish with butter and sprinkle with parsley."
+  },
+  {
+    "serves": "4",
+    "prepTime": "40 minutes",
+    "cookTime": "1 hour 30 minutes",
+    "asset": "assets/chefs/wolfgang/famous.jpeg",
+    "name": "Wolfgang's Famous Chicken Pot Pie",
+    "items":
+        "2 lb boneless, skinless chicken, cut into 1-inch chunks\nSalt and freshly ground black pepper, to taste\n3 Tbsp flour, divided\n3 Tbsp vegetable oil, divided\n4 Tbsp unsalted butter, skinless chicken, cut into 1-inch chunks at room temperature, divided\n8 oz red-skinned potatoes, cut into ½-inch pieces\n8 oz carrots, peeled and cut into ½-inch pieces\n1 medium yellow onion, peeled and diced\n2 garlic cloves minced\nPinch crushed red pepper flakes\n1 sprig fresh thyme\n1 bay leaf\n1 cup dry white wine\n2 cups chicken broth\n1 cup plus 1 Tbsp heavy cream, divided\n¼ cup dry sherry\n½ cup shelled fresh peas or frozen peas, thawed\n½ lb frozen puff pastry, thawed according to package instructions\n1 large egg",
+    "process":
+        "Season chicken with salt and black pepper. In mixing bowl, toss chicken with 2 Tbsp flour until evenly coated.\nIn large skillet over high heat, heat 2 tablespoons oil. \nAdd chicken to pan, reduce heat slightly, and sauté 5-10 minutes, turning occasionally, until chicken is light golden and cooked through. With a slotted spoon, transfer chicken to plate. Set aside.\nAdd remaining 1 Tbsp oil and 2 tablespoons butter to pan. Add potatoes, carrots and onion; \nsauté 2-3 minutes or until glossy and bright. Reduce heat to medium. Stir in garlic, red pepper flakes, thyme and bay leaf; sauté 2-3 minutes or just until the vegetables begin to color slightly.\nAdd wine, increase heat, stir and scrape with wooden spoon to loosen any browned bits. \nSimmer 3-5 minutes or until liquid reduces to ½ cup. \nAdd broth and 1 cup cream. Bring to boil, reduce heat slightly, and simmer briskly for 15 minutes or until liquid reduces by half again and is thick and creamy. Discard thyme and bay leaf.\nStir in chicken and sherry. Mash together remaining 2 Tbsp butter and 1 Tbsp flour and stir into mixture. \nSeason to taste with salt and pepper. \nTransfer mixture to 4 individual ovenproof 2-cup soup bowls or ramekins, or 1 (2-quart) baking dish. Cover with plastic wrap and refrigerate until filling is cold, at least 1 hour.\nPreheat oven to 400°F.\nIf needed, roll out pastry to no more than ¼-inch thickness. With tip of sharp knife, cut out 4 circles that will overhang rim of bowls or ramekins, or leave in 1 piece if using 1 large baking dish.\nIn small bowl, beat egg and remaining 1 Tbsp cream; lightly brush on tops and outside rims of bowls, ramekins or dish. Place containers on a baking sheet and place pastry on top, pressing gently over sides. \nPierce tops of pastry in several places with tip of paring knife. \nBrush pastry tops with egg wash. Carefully transfer baking sheet to oven. \nBake 25-35 minutes until filling is bubbling hot and pastry is deep golden brown. \nServe hot."
+  },
+  {
+    "serves": "8",
+    "prepTime": "0",
+    "cookTime": "1 hour",
+    "asset": "assets/chefs/wolfgang/gourmet.jpeg",
+    "name": "Gourmet Macaroni & Cheese",
+    "items":
+        "1 lb rotelle pasta (They look like wagon wheels)\n3⁄4 lb sharp cheddar cheese, shredded (I used an aged 5 year old variety)\n1⁄2 lb gruyere cheese, shredded\n1⁄2 cup asiago cheese, shredded\n1⁄2 cup Fontina cheese, shredded\n3 tablespoons unsalted butter\n3 tablespoons all-purpose flour\n2 cups milk (I used 2%)\n1 teaspoon onion powder\n1⁄2 teaspoon salt\n1⁄4 teaspoon dried mustard\n1⁄4 teaspoon ground nutmeg\n1⁄4 teaspoon ground cayenne pepper\n1 cup panko breadcrumbs (Japanese Bread Crumbs)",
+    "process":
+        "Heat oven to 350 degrees. Coat a 3 quart rectangular baking dish with non-stick spray. \nBring a large pot of lightly salted water to boiling.\nToss all the shredded cheeses together in a large bowl, set aside.\nMelt butter in a medium-sized saucepan over medium heat. \nWhisk in the flour until smooth and slightly bubbly.\nIn a thin stream, whisk in the milk. Stir in the onion powder, salt, nutmeg, dried mustard and cayenne.\nBring to a boil over medium high heat. Reduce heat and simmer 3 minutes. \nRemove from heat; whisk in 2 1/2 cups of the cheese mixture and stir until smooth. \nCover to retain the heat.\nOnce water boils, add pasta. \nCook until your desired doneness, then drain. \nIn the pasta container, stir together the cooked pasta and cheese sauce.\nPour half of the mixture into the prepared dish. Sprinkle with a generous cup of the reserved cheese. \nSpoon remaining cheese-covered pasta into the dish and top with the remaining cheese.\nAdd 1 cup of Japanese Panko Bread crumbs to the top of mixture.\nBake at 350 degrees for 30 minutes or until the Panko crumbs are lightly browned and the cheese is bubbly. \nCool slightly before serving."
+  },
+  {
+    "serves": "MAKES FOUR 8-INCH PIZZAS",
+    "prepTime": "30 minutes",
+    "cookTime": "10 minutes",
+    "asset": "assets/chefs/wolfgang/spago.jpeg",
+    "name": "Spago Smoked Salmon Pizza",
+    "items":
+        "2 tablespoons chopped chives\nPizza Dough\n1/4 cup extra-virgin olive oil\n6 tablespoons crème fraîche\n1/2 pound thinly sliced smoked salmon\n6 tablespoons black or golden caviar (3 ounces)",
+    "process":
+        "Step 1\nPreheat the oven to 500°. Set a pizza stone in the oven for 30 minutes.\nStep 2\nKnead 1/2 teaspoon of the chives into each ball of pizza dough. On a lightly floured work surface, roll each ball into an 8-inch round. Brush each round with 1 tablespoon of olive oil, leaving a 1-inch unbrushed rim. Transfer the rounds to a lightly floured baker's peel or the back of a flat cookie sheet dusted with flour. Slide the rounds onto the hot pizza stone and bake for 8 to 10 minutes, or until golden brown.\nStep 3\nSpread the pizza crusts evenly with the crème fraîche and top with the sliced smoked salmon. Place a heaping tablespoon of caviar in the center of each pizza, garnish with the remaining chives and serve immediately."
+  }
+];
